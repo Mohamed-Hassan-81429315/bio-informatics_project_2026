@@ -1,0 +1,16 @@
+
+# Temporary Office files
+~$*
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
